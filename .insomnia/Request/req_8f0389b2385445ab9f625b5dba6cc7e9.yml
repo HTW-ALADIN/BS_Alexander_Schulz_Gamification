@@ -1,0 +1,23 @@
+_id: req_8f0389b2385445ab9f625b5dba6cc7e9
+type: Request
+parentId: wrk_6822987d50804d319e9bb78779c98d8c
+modified: 1692963118607
+created: 1692858128965
+url: http://localhost:8080/admin/projects/ALADIN/skills
+name: Get all Skills (Admin)
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: Insomnia/2023.5.6
+authentication: {}
+metaSortKey: -1692858128965
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

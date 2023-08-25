@@ -1,26 +1,27 @@
-_id: req_11eee4ff467d4e7ab92298319f0c9ec5
+_id: req_bdceb42f4d4844b78e7f4c878a02b36a
 type: Request
 parentId: wrk_6822987d50804d319e9bb78779c98d8c
-modified: 1692855413962
-created: 1692681565497
-url: http://localhost:8080/app/projects/ALADIN
-name: Create Project
+modified: 1692962977477
+created: 1692962763821
+url: "\thttp://localhost:8080/admin/projects/Inception/levels/edit/1"
+name: Edit level
 description: ""
-method: POST
+method: PUT
 body:
   mimeType: application/json
   text: |-
     {
-    	"name":"ALADIN"
+    	"percent": "5",
+    	"level": "1"
     }
 parameters: []
 headers:
   - name: Content-Type
     value: application/json
   - name: User-Agent
-    value: Insomnia/2023.5.5
+    value: Insomnia/2023.5.6
 authentication: {}
-metaSortKey: -1692681565497
+metaSortKey: -1692962763821
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true

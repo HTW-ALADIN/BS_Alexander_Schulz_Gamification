@@ -1,10 +1,10 @@
 _id: req_7c34a0210fc448ac80077bc2689f679f
 type: Request
 parentId: wrk_6822987d50804d319e9bb78779c98d8c
-modified: 1692725000125
+modified: 1692963140467
 created: 1692724347315
 url: http://localhost:8080/admin/projects/aladin/subjects/wirtschaftsinformatik/groups/betrieblicheinformationssysteme/skills/solvegozintograph
-name: Crete Skill inside Group
+name: Create Skill inside Group
 description: ""
 method: POST
 body:

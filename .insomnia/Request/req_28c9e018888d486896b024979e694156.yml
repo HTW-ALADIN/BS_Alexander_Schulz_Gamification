@@ -1,10 +1,10 @@
 _id: req_28c9e018888d486896b024979e694156
 type: Request
 parentId: wrk_6822987d50804d319e9bb78779c98d8c
-modified: 1692724324386
+modified: 1692963134169
 created: 1692683225828
-url: http://localhost:8080/admin/projects/aladin/subjects/wirtschaftsinformatik/skills/betrieblicheinformationssysteme
-name: Crete Group
+url: http://localhost:8080/admin/projects/ALADIN/subjects/WirtschaftsinformatikSubject/skills/BetrieblicheInformationssystemeGroup
+name: Create Group
 description: ""
 method: POST
 body:
@@ -14,9 +14,10 @@ body:
     	"name":"Betrieblicheinformationssysteme",
     	"description": "",
     	"skillId": "betrieblicheinformationssysteme",
-    	"subjectId": "wirtschaftsinformatik",
+    	"subjectId": "WirtschaftsinformatikSubject",
     	"type": "SkillsGroup",
-    	"numSkillsRequired": "-1"
+    	"numSkillsRequired": "-1",
+    	"enabled":true
     }
 parameters: []
 headers:

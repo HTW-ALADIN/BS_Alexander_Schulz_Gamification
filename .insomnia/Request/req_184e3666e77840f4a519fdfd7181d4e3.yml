@@ -1,10 +1,10 @@
 _id: req_184e3666e77840f4a519fdfd7181d4e3
 type: Request
 parentId: wrk_6822987d50804d319e9bb78779c98d8c
-modified: 1692725084591
+modified: 1692963146752
 created: 1692725037510
 url: http://localhost:8080/admin/projects/aladin/subjects/wirtschaftsinformatik/skills/configureTask
-name: Crete Skill
+name: Create Skill
 description: ""
 method: POST
 body:

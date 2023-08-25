@@ -1,10 +1,10 @@
 _id: req_568657f124cb40e2983263aa76a21ec5
 type: Request
 parentId: wrk_6822987d50804d319e9bb78779c98d8c
-modified: 1692683178750
+modified: 1692963128182
 created: 1692682404281
-url: http://localhost:8080/admin/projects/aladin/subjects/wirtschaftsinformatik
-name: Crete Subject
+url: http://localhost:8080/admin/projects/ALADIN/subjects/WirtschaftsinformatikSubject
+name: Create Subject
 description: ""
 method: POST
 body:
